@@ -6,7 +6,7 @@ This GitHub repository is dedicated to mention and demonstrate automated tools t
 
 ###### Azure
 
-* [o365reacon](o365reacon)
+* [o365reacon](o365reacon.md)
 * PowerZure
 * SkyArk
 * Azucar
