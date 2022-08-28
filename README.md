@@ -4,7 +4,7 @@ This GitHub repository is dedicated to mention and demonstrate automated tools t
 
 Table of content:
 --- Azure ---
-    [o365reacon]
+    [o365reacon](o365reacon)
     PowerZure
     SkyArk
     Azucar
@@ -39,7 +39,7 @@ Table of content:
     GCPBucketBrute
 
 
-(o365reacon) - https://github.com/nyxgeek/o365recon
+o365reacon - https://github.com/nyxgeek/o365recon
 script to retrieve information via O365 and AzureAD with valid credentials.
 	Prerequisites; 
 •	MSOnline & AzureAD PowerShell modules
