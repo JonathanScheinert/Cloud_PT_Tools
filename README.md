@@ -1,8 +1,10 @@
+## Cloud Penetration Testing Tools
+
 This GitHub repository is dedicated to mention and demonstrate automated tools that may be used in penetration tests and security engagements against cloud infrastructures as AWS, Azure and Google Cloud.
 
 Table of content:
 --- Azure ---
-    o365reacon
+    [o365reacon]
     PowerZure
     SkyArk
     Azucar
@@ -32,6 +34,19 @@ Table of content:
     
 --- Google Cloud ---
     Hayat
-    GCP-IAM-Collector
+    GCP-IAM-Collector 
     GCP-IAM-Privesc
     GCPBucketBrute
+
+
+(o365reacon) - https://github.com/nyxgeek/o365recon
+script to retrieve information via O365 and AzureAD with valid credentials.
+	Prerequisites; 
+•	MSOnline & AzureAD PowerShell modules
+•	User with at least Read access to the tenant and subscriptions.
+	Key features;
+•	Gathers information regarding the azure environment, users, groups, applications and more.
+•	Export the data to CSV format report.
+ 
+ 
+----------------------------------------------------------------------------------------------------------------------
