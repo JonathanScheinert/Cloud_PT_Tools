@@ -2,51 +2,38 @@
 
 This GitHub repository is dedicated to mention and demonstrate automated tools that may be used in penetration tests and security engagements against cloud infrastructures as AWS, Azure and Google Cloud.
 
-Table of content:
---- Azure ---
-    [o365reacon](o365reacon)
-    PowerZure
-    SkyArk
-    Azucar
-    AzureHound
-    Blob Hunter
-    MailSniper
-    MSOLSpray
-    o365Creeper
-    MicroBurst
+**Table of content:**
+**--- Azure ---**
+    - [o365reacon](o365reacon)
+    - PowerZure
+    - SkyArk
+    - Azucar
+    - AzureHound
+    - Blob Hunter
+    - MailSniper
+    - MSOLSpray
+    - o365Creeper
+    - MicroBurst
 
---- AWS ---
-    ScoutSuite
-    weirdALL
-    AWS-Security-Benchmark
-    CloudMapper
-    CloudTracker
-    AWS_Public_IPs
-    SkyArk
-    Pacu
-    CloudBrute
-    Redboto
-    BucketStream
-    s3reacon
-    CloudFrunt
-    Cred_Scanner
-    DumpsterDiver
+**--- AWS ---**
+    - ScoutSuite
+    - weirdALL
+    - AWS-Security-Benchmark
+    - CloudMapper
+    - CloudTracker
+    - AWS_Public_IPs
+    - SkyArk
+    - Pacu
+    - CloudBrute
+    - Redboto
+    - BucketStream
+    - s3reacon
+    - CloudFrunt
+    - Cred_Scanner
+    - DumpsterDiver
     
---- Google Cloud ---
-    Hayat
-    GCP-IAM-Collector 
-    GCP-IAM-Privesc
-    GCPBucketBrute
-
-
-o365reacon - https://github.com/nyxgeek/o365recon
-script to retrieve information via O365 and AzureAD with valid credentials.
-	Prerequisites; 
-•	MSOnline & AzureAD PowerShell modules
-•	User with at least Read access to the tenant and subscriptions.
-	Key features;
-•	Gathers information regarding the azure environment, users, groups, applications and more.
-•	Export the data to CSV format report.
- 
- 
-----------------------------------------------------------------------------------------------------------------------
+**--- Google Cloud ---**
+    - Hayat
+    - GCP-IAM-Collector 
+    - GCP-IAM-Privesc
+    - GCPBucketBrute
