@@ -3,13 +3,13 @@ script to retrieve information via O365 and AzureAD with valid credentials.
 
 
 **Prerequisites** 
-•	MSOnline & AzureAD PowerShell modules
-•	User with at least Read access to the tenant and subscriptions.
+*	MSOnline & AzureAD PowerShell modules
+*	User with at least Read access to the tenant and subscriptions.
 
 
 **Key features**
-•	Gathers information regarding the azure environment, users, groups, applications and more.
-•	Export the data to CSV format report.
+*	Gathers information regarding the azure environment, users, groups, applications and more.
+*	Export the data to CSV format report.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
