@@ -3,7 +3,7 @@
 This GitHub repository is dedicated to mention and demonstrate automated tools that may be used in penetration tests and security engagements against cloud infrastructures as AWS, Azure and Google Cloud.
 
 **Table of content:**
-Azure:
+- **Azure**
 * [o365reacon](o365reacon)
 * PowerZure
 * SkyArk
@@ -15,7 +15,7 @@ Azure:
 * o365Creeper
 * MicroBurst
 
-**--- AWS ---**
+- **AWS**
 * ScoutSuite
 * weirdALL
 * AWS-Security-Benchmark
@@ -32,7 +32,7 @@ Azure:
 * Cred_Scanner
 * DumpsterDiver
     
-**--- Google Cloud ---**
+-**Google Cloud**
 * Hayat
 * GCP-IAM-Collector 
 * GCP-IAM-Privesc
