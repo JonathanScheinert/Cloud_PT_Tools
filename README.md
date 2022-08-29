@@ -11,12 +11,11 @@ The list contains open-source tools written by securtity researchers, all the cr
 * [PowerZure](./Azure/PowerZure.md)
 * [AzureStealth](./Azure/AzureStealth.md)
 * [Azucar](./Azure/Azucar.md)
-* AzureHound
-* Blob Hunter
-* MailSniper
-* MSOLSpray
-* o365Creeper
-* MicroBurst
+* [AzureHound](./Azure/AzureHound.md)
+* [BlobHunter](./Azure/BlobHunter.md)
+* [MSOLSpray](./Azure/MSOLSpray.md)
+* [o365Creeper](./Azure/o365creeper.md)
+* [MicroBurst](./Azure/MicroBurst.md)
 
 ###### AWS
 * ScoutSuite
