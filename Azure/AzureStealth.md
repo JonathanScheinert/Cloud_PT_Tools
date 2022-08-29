@@ -22,7 +22,7 @@ Potential attackers are hunting for those users and the defensive teams must mak
 
 
 
-![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/PowerZure_1.png)
+![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/AzureStealth_1.png)
 
 
-![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/PowerZure_2.png)
+![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/AzureStealth_2.png)
