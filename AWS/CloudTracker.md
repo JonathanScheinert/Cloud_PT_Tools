@@ -38,7 +38,7 @@ o	$ cloudtracker --account <account-name> --list users
   * + A plus sign means the privilege was not granted, but was used. The only way this is possible is if the privilege was previously granted, used, and then removed, so you may want to add that privilege back.
 
 
-![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/CloudTracker_1.png)
+![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/CloudTracker_!.png)
 
 
 ![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/CloudTracker_2.png)
