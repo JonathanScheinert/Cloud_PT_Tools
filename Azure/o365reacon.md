@@ -1,6 +1,6 @@
-o365reacon - https://github.com/nyxgeek/o365recon
 ## Script to retrieve information via O365 and AzureAD with valid credentials.
 
+o365reacon - https://github.com/nyxgeek/o365recon
 
 **Prerequisites** 
 *	MSOnline & AzureAD PowerShell modules
