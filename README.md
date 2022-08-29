@@ -10,7 +10,7 @@ The list contains open-source tools written by securtity researchers, all the cr
 * [o365reacon](./Azure/o365reacon.md)
 * [PowerZure](./Azure/PowerZure.md)
 * [AzureStealth](./Azure/AzureStealth.md)
-* Azucar
+* [Azucar](./Azure/Azucar.md)
 * AzureHound
 * Blob Hunter
 * MailSniper
