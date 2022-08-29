@@ -6,7 +6,6 @@ The list contains open-source tools written by securtity researchers, all the cr
 **Table of content:**
 
 ###### Azure
-
 * [o365reacon](./Azure/o365reacon.md)
 * [PowerZure](./Azure/PowerZure.md)
 * [AzureStealth](./Azure/AzureStealth.md)
@@ -18,24 +17,24 @@ The list contains open-source tools written by securtity researchers, all the cr
 * [MicroBurst](./Azure/MicroBurst.md)
 
 ###### AWS
-* ScoutSuite
-* weirdALL
-* AWS-Security-Benchmark
-* CloudMapper
-* CloudTracker
-* AWS_Public_IPs
-* SkyArk
-* Pacu
-* CloudBrute
-* Redboto
-* BucketStream
-* s3reacon
-* CloudFrunt
-* Cred_Scanner
-* DumpsterDiver
+* [ScoutSuite](./AWS/ScoutSuite.md)
+* [weirdALL](./AWS/weirdALL.md)
+* [AWS-Security-Benchmark](./AWS/AWS-Security-Benchmark.md)
+* [CloudMapper](./AWS/CloudMapper.md)
+* [CloudTracker](./AWS/CloudTracker.md)
+* [AWS_Public_IPs](./AWS/AWS_Public_IPs.md)
+* [AWStealth](./AWS/AWStealth.md)
+* [Pacu](./AWS/Pacu.md)
+* [CloudBrute](./AWS/CloudBrute.md)
+* [Redboto](./AWS/Redboto.md)
+* [BucketStream](./AWS/BucketStream.md)
+* [s3reacon](./AWS/s3reacon.md)
+* [CloudFrunt](./AWS/CloudFrunt.md)
+* [Cred_Scanner](./AWS/Cred_Scanner.md)
+* [DumpsterDiver](./AWS/DumpsterDiver.md)
     
 ###### Google Cloud
-* Hayat
-* GCP-IAM-Collector 
-* GCP-IAM-Privesc
-* GCPBucketBrute
+* [Hayat](./Google Cloud/Hayat.md)
+* [GCP-IAM-Collector](./Google Cloud/GCP-IAM-Collector.md) 
+* [GCP-IAM-Privesc](./Google Cloud/GCP-IAM-Privesc.md)
+* [GCPBucketBrute](./Google Cloud/GCPBucketBrute.md)
