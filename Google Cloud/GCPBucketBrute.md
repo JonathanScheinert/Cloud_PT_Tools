@@ -17,4 +17,4 @@ Potential attackers are hunting for those users and the defensive teams must mak
 * Regardless if credentials are supplied or not, the script will then try to enumerate the bucket permissions using the TestIamPermissions API while unauthenticated. This means that if you don't enter credentials, you will only be shown the privileges an unauthenticated user has, but if you do enter credentials, you will see what access authenticated users have compared to unauthenticated users.
 * WARNING: If credentials are supplied, your username can be disclosed in the access logs of any buckets you discover.
 
-![Import Module](./Screenshots/GCPBukcetBrute_1.png)
+![Import Module](./Screenshots/GCPBucketBrute_1.png)
