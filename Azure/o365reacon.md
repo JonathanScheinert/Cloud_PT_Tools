@@ -1,5 +1,5 @@
 o365reacon - https://github.com/nyxgeek/o365recon
-script to retrieve information via O365 and AzureAD with valid credentials.
+- Script to retrieve information via O365 and AzureAD with valid credentials.
 
 
 **Prerequisites** 
@@ -11,7 +11,7 @@ script to retrieve information via O365 and AzureAD with valid credentials.
 *	Gathers information regarding the azure environment, users, groups, applications and more.
 *	Export the data to CSV format report.
 
-![This is an image](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/o365reacon_1.png)
+![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/o365reacon_1.png)
 
 
 
