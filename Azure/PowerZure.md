@@ -1,6 +1,7 @@
-PowerZure - https://github.com/hausec/PowerZure
+
 ## PowerZure is a PowerShell project created to assess and exploit resources within Microsoft’s cloud platform, Azure. PowerZure was created out of the need for a framework that can both perform reconnaissance and exploitation of Azure, AzureAD, and the associated resources.
 
+PowerZure - https://github.com/hausec/PowerZure
 
 **Prerequisites** 
 * Az & AzureAD PowerShell modules
