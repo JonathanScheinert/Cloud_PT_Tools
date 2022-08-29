@@ -24,4 +24,4 @@ Hayat - https://github.com/DenizParlak/hayat
   * Ensure that Cloud Storage bucket is not anonymously or publicly accessible.
   * Ensure that logging is enabled for Cloud storage bucket.
 
-![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/'Google Cloud'/Screenshots/Hayat_1.png)
+![Import Module]('https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Google Cloud/Screenshots/Hayat_1.png')
