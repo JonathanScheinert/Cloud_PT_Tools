@@ -8,8 +8,8 @@ The list contains open-source tools written by securtity researchers, all the cr
 ###### Azure
 
 * [o365reacon](./Azure/o365reacon.md)
-* [PowerZure](./Azure/PowerZure.md)
-* SkyArk
+* [PowerZure](./Azure/AzureStealth.md)
+* AzureStealth
 * Azucar
 * AzureHound
 * Blob Hunter
