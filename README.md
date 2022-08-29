@@ -37,4 +37,4 @@ The list contains open-source tools written by securtity researchers, all the cr
 * [Hayat](./Google Cloud/Hayat.md)
 * [GCP-IAM-Collector](./Google Cloud/GCP-IAM-Collector.md) 
 * [GCP-IAM-Privesc](./Google Cloud/GCP-IAM-Privesc.md)
-* [GCPBucketBrute](./Google Cloud/GCPBucketBrute.md)
+* [GCPBucketBrute](."/Google Cloud/GCPBucketBrute.md")
