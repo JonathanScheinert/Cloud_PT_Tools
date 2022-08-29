@@ -24,10 +24,10 @@ Using the APIs exposed by cloud providers, Scout Suite gathers configuration dat
 * Persistent monitoring - so you know about changes or issues as they arise.
 * Generates an attack surface report.
 
-![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/ScoutSuite_1.png)
+![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/ScoutSuite_1.png)
 
 
-![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/ScoutSuite_2.png)
+![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/ScoutSuite_2.png)
 
 
-![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/ScoutSuite_3.png)
+![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/ScoutSuite_3.png)
