@@ -2,9 +2,6 @@
 
 s3reacon - https://github.com/clarketm/s3recon
 
-With the AzureStealth’s scanning results - blue and red teamers can discover who are the users with the most sensitive and risky permissions.
-Potential attackers are hunting for those users and the defensive teams must make sure these privileged users are well secured - have strong, rotated and safety stored credentials, have MFA enabled, being monitored carefully, etc.
-
 **Prerequisites** 
 * s3recon requires python version >=3.6
 * Download a wordlist.
