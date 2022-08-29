@@ -38,7 +38,7 @@ Azure
 * [DumpsterDiver](./AWS/DumpsterDiver.md)
     
 ```diff
-- Google Cloud
++ Google Cloud
 ```
 * [Hayat](./Google_Cloud/Hayat.md)
 * [GCP-IAM-Collector](./Google_Cloud/GCP-IAM-Collector.md) 
