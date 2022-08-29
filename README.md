@@ -34,7 +34,7 @@ The list contains open-source tools written by securtity researchers, all the cr
 * [DumpsterDiver](./AWS/DumpsterDiver.md)
     
 ###### Google Cloud
-* [Hayat](./Google Cloud/Hayat.md)
-* [GCP-IAM-Collector](./Google Cloud/GCP-IAM-Collector.md) 
-* [GCP-IAM-Privesc](./Google Cloud/GCP-IAM-Privesc.md)
-* [GCPBucketBrute](."/Google Cloud/GCPBucketBrute.md")
+* [Hayat](./Google_Cloud/Hayat.md)
+* [GCP-IAM-Collector](./Google_Cloud/GCP-IAM-Collector.md) 
+* [GCP-IAM-Privesc](./Google_Cloud/GCP-IAM-Privesc.md)
+* [GCPBucketBrute](./Google_Cloud/GCPBucketBrute.md")
