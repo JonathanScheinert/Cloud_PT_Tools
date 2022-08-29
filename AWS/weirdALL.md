@@ -17,10 +17,10 @@ weirdALL is a complete auditing framework focusing on AWS services, configuratio
     * $ python3 weirdAAL.py -m list_services_by_key -t <myTarget>
     * $ python3 weirdAAL.py -m s3_list_buckets -t <myTarget>
 
-![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/wierdALL_1.png)
+![Import Module](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/wierdALL_1.png)
 
 
-![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/wierdALL_2.png)
+![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/wierdALL_2.png)
 
 
-![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/Azure/Screenshots/wierdALL_3.png)
+![Running The Script](https://github.com/JonathanScheinert/Cloud_PT_Tools/blob/main/AWS/Screenshots/wierdALL_3.png)
