@@ -5,7 +5,9 @@ The list contains open-source tools written by securtity researchers, all the cr
 
 **Table of content:**
 
-#######0969DA Azure
+```css
+Azure
+```
 * [o365reacon](./Azure/o365reacon.md)
 * [PowerZure](./Azure/PowerZure.md)
 * [AzureStealth](./Azure/AzureStealth.md)
@@ -16,7 +18,9 @@ The list contains open-source tools written by securtity researchers, all the cr
 * [o365Creeper](./Azure/o365creeper.md)
 * [MicroBurst](./Azure/MicroBurst.md)
 
-###### AWS
+```diff
+! AWS
+```
 * [ScoutSuite](./AWS/ScoutSuite.md)
 * [weirdALL](./AWS/weirdALL.md)
 * [AWS-Security-Benchmark](./AWS/AWS-Security-Benchmark.md)
@@ -33,7 +37,9 @@ The list contains open-source tools written by securtity researchers, all the cr
 * [Cred_Scanner](./AWS/Cred_Scanner.md)
 * [DumpsterDiver](./AWS/DumpsterDiver.md)
     
-###### Google Cloud
+```diff
+- Google Cloud
+```
 * [Hayat](./Google_Cloud/Hayat.md)
 * [GCP-IAM-Collector](./Google_Cloud/GCP-IAM-Collector.md) 
 * [GCP-IAM-Privesc](./Google_Cloud/GCP-IAM-Privesc.md)
