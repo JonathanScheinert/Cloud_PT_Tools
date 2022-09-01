@@ -1,6 +1,6 @@
 ## Cloud Penetration Testing Tools
 
-This GitHub repository is dedicated to mention and demonstrate automated tools that may be useful in penetration tests and security engagements against cloud infrastructures as AWS, Azure and Google Cloud.
+This GitHub repository is dedicated to mention and demonstrate automated tools that may be useful in penetration tests and security engagements against cloud infrastructures as Azure, AWS and Google Cloud.
 The list contains open-source tools written by securtity researchers, all the credits and kudos to them! 
 
 **Table of content:**
